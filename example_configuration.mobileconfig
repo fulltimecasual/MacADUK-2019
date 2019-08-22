@@ -15,13 +15,13 @@
 							<key>mcx_preference_settings</key>
 							<dict>
 								<key>BackgroundImage</key>
-								<string>/Library/Application Support/UEL/branding/wallpaper.jpg</string>
+								<string>/Library/Application Support/Swinburne/2019.heic</string>
 								<key>LoginLogo</key>
-								<string>/Library/Application Support/UEL/branding/logo.png</string>
+								<string>/Library/Application Support/Swinburne/swinburne-university-of-technology-logo.png</string>
 								<key>NotifyLogStyle</key>
 								<string>jamf</string>
 								<key>UserInputLogo</key>
-								<string>/Library/Application Support/UEL/branding/logo.png</string>
+								<string>/Library/Application Support/Swinburne/swinburne-university-of-technology-logo.png</string>
 								<key>UserInputMainText</key>
 								<string>Please set the computer name and role to continue...</string>
 								<key>UserInputOutputPath</key>
@@ -42,9 +42,9 @@
 										<dict>
 											<key>items</key>
 											<array>
-												<string>Student</string>
 												<string>Staff</string>
-												<string>Staff Loan</string>
+												<string>Lab</string>
+												<string>Shared</string>
 											</array>
 											<key>title</key>
 											<string>Computer Role</string>
@@ -92,7 +92,7 @@
 	<key>PayloadIdentifier</key>
 	<string>FF808D2C-A258-46CB-928E-41E0D7347ED2</string>
 	<key>PayloadOrganization</key>
-	<string>Your organisation</string>
+	<string>Swinburne University</string>
 	<key>PayloadRemovalDisallowed</key>
 	<true/>
 	<key>PayloadScope</key>
